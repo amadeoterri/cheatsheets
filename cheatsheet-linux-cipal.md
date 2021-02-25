@@ -1,6 +1,7 @@
-# CHEATSHEAT FOR LINUX (CIPAL SCHAUBROECK)
-
-## Standard
+<h1 style="text-align:center;">
+CHEATSHEAT FOR LINUX <br>(C.S.)
+</h1>
+#### Standard
 
 | Command        | Explained           
 | ------------- |:-------------:
@@ -18,7 +19,7 @@
 
 
 
-## Services
+#### Services
 | Command        | Explained           
 | ------------- |:-------------:
 |service ebestuur status| check status of 'ebestuur' 
@@ -35,7 +36,7 @@
 ||
 ||
 
-## Common
+#### Common
 | Command        | Explained           
 | ------------- |:-------------:
 |less +G /u9/ebestuur/ebestuur/logs/kauri-wrapper.log|logs ebestuur

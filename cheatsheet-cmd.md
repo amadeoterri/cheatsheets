@@ -1,5 +1,7 @@
-# CHEATSHEET FOR CMD
-
+<h1 style="text-align:center;">
+CHEATSHEET FOR CMD 
+</h1>
+#### CHEATSHEET
 
 | Command        | Explained           
 | ------------- |:-------------:
@@ -9,17 +11,17 @@
 | start .| open current directory in explorer      
 |dir| list of files in current directory
 |mkdir &lt;PATH&gt;| make a directory at path &#42;
-|netstat -ano &#124; findstr: &lt;PORT&gt;|find a port &#42;&#42;
+|netstat -ano &#124; findstr :&lt;PORT&gt;|find a port &#42;&#42;
 |taskkill /PID &lt;PORT&gt; /F|kill process at port &#42;&#42;
 ||
 ||
 ||
 
-&#42; (replace &lt;PATH&gt; with path name)
+<p style="text-align: left;"> &#42; (replace &lt;PATH&gt; with path name) <br>
 
-&#42;&#42; (replace &lt;PORT&gt; with port number)
+&#42;&#42; (replace &lt;PORT&gt; with port number)</p>
 
-## TIPS & TRICKS:
+#### TIPS & TRICKS
 
 | Trick        | Explained           
 | ------------- |:-------------:
