@@ -10,8 +10,8 @@
 |CTRL + C|stop following
 |q|quit
 |man rpm|manual for rpm
-||
-||
+|pwd|show current directory
+|(letter(s)) + tab (x2)|show files that starts with letters
 ||
 ||
 ||
