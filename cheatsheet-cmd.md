@@ -42,3 +42,6 @@ CHEATSHEET FOR CMD
 ||
 
 (1) Add path to kauri to environment variables %KAURI_HOME%
+
+![Knipsel](https://user-images.githubusercontent.com/55751205/109170779-61c94900-7781-11eb-82e5-e8c61ee3b081.PNG)
+
