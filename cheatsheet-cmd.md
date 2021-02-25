@@ -38,7 +38,7 @@ CHEATSHEET FOR CMD
 #### KAURI
 | Trick        | Explained           
 | ------------- |:-------------:
-|%KAURI_HOME%/bin/kauri -c conf -r %HOME%\.m2\repository|run KAURI project (1)
+|%KAURI_HOME%/bin/kauri -c conf -r %HOME%\\.m2\repository|run KAURI project (1)
 ||
 
 (1) Add path to kauri to environment variables %KAURI_HOME%
