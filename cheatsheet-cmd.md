@@ -1,7 +1,7 @@
 <h1 style="text-align:center;">
 CHEATSHEET FOR CMD 
 </h1>
-#### CHEATSHEET
+<h4>CHEATSHEET</h4>
 
 | Command        | Explained           
 | ------------- |:-------------:
@@ -24,24 +24,11 @@ CHEATSHEET FOR CMD
 
 </p>
 
-#### TIPS & TRICKS
+<h4> TIPS & TRICKS </h4>
 
 | Trick        | Explained           
 | ------------- |:-------------:
 |in explorer press 'ALT + D'  and type 'cmd' |open cmd with explorer
-
 |WIN + R and type 'cmd'| open cmd
 ||
-
-
-
-#### KAURI
-| Trick        | Explained           
-| ------------- |:-------------:
-|%KAURI_HOME%&#92;bin&#92;kauri -c conf -r %HOME%&#92;&#92;&#92;.m2\repository|run KAURI project (1)
-||
-
-(1) Add path to kauri to environment variables %KAURI_HOME%
-
-![Knipsel](https://user-images.githubusercontent.com/55751205/109170779-61c94900-7781-11eb-82e5-e8c61ee3b081.PNG)
 
