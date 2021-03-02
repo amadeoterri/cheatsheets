@@ -12,8 +12,13 @@ CHEATSHEAT FOR LINUX <br>(C.S.)
 |q|quit
 |man rpm|manual for rpm
 |pwd|show current directory
-|(letter(s)) + tab (x2)|show files that starts with letters
+|&lt;(letter(s))&gt; + tab (x2)|show files that starts with letters
 |cd ~|go to root folder
+|less &lt;FILE_PATH&gt;|shows the content of the file
+|cat &lt;FILE_PATH&gt;|also shows the content of the file, but more minmimalistic
+|nano &lt;FILE_PATH&gt;|use this for editing a file
+|CTRL + X|save file that has been edited
+||
 ||
 ||
 
