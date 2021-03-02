@@ -1,7 +1,7 @@
 <h1 style="text-align:center;">
 CHEATSHEAT FOR LINUX <br>(C.S.)
 </h1>
-#### Standard
+<h3> Standard </h3>
 
 | Command        | Explained           
 | ------------- |:-------------:
@@ -24,7 +24,8 @@ CHEATSHEAT FOR LINUX <br>(C.S.)
 
 
 
-#### Services
+<h3> Services </h3>
+
 | Command        | Explained           
 | ------------- |:-------------:
 |service ebestuur status| check status of 'ebestuur' 
@@ -41,13 +42,14 @@ CHEATSHEAT FOR LINUX <br>(C.S.)
 ||
 ||
 
-#### Common
+<h3> Common </h3>
+
 | Command        | Explained           
 | ------------- |:-------------:
 |less +G /u9/ebestuur/ebestuur/logs/kauri-wrapper.log|logs ebestuur
 |cd /u9/ebestuur/scripts|scripts ebestuur
-||
-||
+|nano /u9/ebestuur/ebestuur/conf/ebestuur-web/general.xml|modules kiezen vb. enotulen
+|/usr/java/daisy-ebestuur/install/daisy-init.sh|daisy initialiseren zodat ze kan runnen
 ||
 ||
 ||
