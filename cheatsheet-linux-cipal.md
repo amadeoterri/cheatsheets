@@ -18,6 +18,11 @@ CHEATSHEAT FOR LINUX <br>(C.S.)
 |cat &lt;FILE_PATH&gt;|also shows the content of the file, but more minmimalistic
 |nano &lt;FILE_PATH&gt;|use this for editing a file
 |CTRL + X|save file that has been edited
+|chown|allows you to change the user and/or group ownership of a given file, directory, or symbolic link
+|CTRL + L|clear screen
+|CTRL + E|go to end of line
+|CTRL + U|clear line
+|CTRL + Y|recall cleared line (undo)
 ||
 ||
 ||
@@ -50,6 +55,6 @@ CHEATSHEAT FOR LINUX <br>(C.S.)
 |cd /u9/ebestuur/scripts|scripts ebestuur
 |nano /u9/ebestuur/ebestuur/conf/ebestuur-web/general.xml|modules kiezen vb. enotulen
 |/usr/java/daisy-ebestuur/install/daisy-init.sh|daisy initialiseren zodat ze kan runnen
-||
-||
+|chown ebestuur:ebestuur tenant-config-standard.xml’|geef ebestuur ownership 
+|nano /u9/ebestuur/ebestuur/conf/baseservice-context.properties|baseservice-context.properties file aanpassen
 ||
