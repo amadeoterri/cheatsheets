@@ -14,13 +14,20 @@ CHEATSHEET FOR CMD
 |netstat -ano &#124; findstr :&lt;PORT&gt;|find a port (2)
 |taskkill /PID &lt;PID&gt; /F|kill process with PID (3)
 |cls|clean sheet
+|rimraf &lt;FOLDER&gt; | remove &lt;FOLDER&gt;
 ||
+||
+||
+||
+
 
 <p style="text-align: left;"> (1) (replace &lt;PATH&gt; with path name) <br>
 
-(2) (replace &lt;PORT&gt; with port number) <br>
+(2) replace &lt;PORT&gt; with port number <br>
 
 (3) you can find pid by executing: 'netstat -ano &#124; findstr :&lt;PORT&gt;' (2) <br>
+
+(4) replace &lt;FOLDER&gt; with folder name
 
 </p>
 
@@ -30,5 +37,7 @@ CHEATSHEET FOR CMD
 | ------------- |:-------------:
 |in explorer press 'ALT + D'  and type 'cmd' |open cmd with explorer
 |WIN + R and type 'cmd'| open cmd
+||
+||
 ||
 

@@ -20,9 +20,11 @@ CHEATSHEAT FOR LINUX <br>(C.S.)
 |CTRL + X|save file that has been edited
 |chown|allows you to change the user and/or group ownership of a given file, directory, or symbolic link
 |CTRL + L|clear screen
+|CTRL + A|go to beginning of line
 |CTRL + E|go to end of line
 |CTRL + U|clear line
 |CTRL + Y|recall cleared line (undo)
+|mv &lt;FILE_PATH&gt; &lt;FILE_PATH&gt;|move from &lt;FILE_PATH&gt; to &lt;FILE_PATH&gt;
 ||
 ||
 ||
@@ -57,4 +59,4 @@ CHEATSHEAT FOR LINUX <br>(C.S.)
 |/usr/java/daisy-ebestuur/install/daisy-init.sh|daisy initialiseren zodat ze kan runnen
 |chown ebestuur:ebestuur tenant-config-standard.xml’|geef ebestuur ownership 
 |nano /u9/ebestuur/ebestuur/conf/baseservice-context.properties|baseservice-context.properties file aanpassen
-||
+|nano /u9/ebestuur/scripts/daisy/install_daisy|file om ports aan te passen indien meerdere tenants
