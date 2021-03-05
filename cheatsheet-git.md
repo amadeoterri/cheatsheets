@@ -17,7 +17,7 @@ CHEATSHEAT FOR GIT
 |git branch -d &lt;BRANCH_NAME&gt;|remove branch &lt;BRANCH_NAME&gt;
 |git checkout &lt;BRANCH_NAME&gt;|go to &lt;BRANCH_NAME&gt;
 |git merge &lt;BRANCH_NAME&gt;|merge current branch with &lt;BRANCH_NAME&gt;
-||
+|git pull origin main|update local 'origin' repo from remote 'main' branch
 ||
 ||
 ||
