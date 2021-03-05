@@ -1,0 +1,46 @@
+<h1 style="text-align:center;">
+CHEATSHEAT FOR GIT
+</h1>
+<h4> Standard </h4>
+
+| Command        | Explained           
+| ------------- |:-------------:
+|git clone &lt;URL&gt;|clone project from remote project (insert &lt;URL&gt;) into current folder
+|git init|start a new local repo
+|git add .|adds a change in the working directory to the staging area
+|git commit -m "&lt;MESSAGE&gt;"|commit to your local repo with a &lt;MESSAGE&gt;
+|git remote add &lt;REMOTE_NAME&gt; &lt;REMOTE URL&gt;|add new remote
+|git push -u orgin &lt;BRANCH_NAME&gt;|pushes changes that you staged on &lt;BRANCH_NAME&gt;
+|git remote -v|see all the names of the remote
+|git branch &lt;BRANCH_NAME&gt;|make a new branch
+|git branch|see all branches
+|git branch -d &lt;BRANCH_NAME&gt;|remove branch &lt;BRANCH_NAME&gt;
+|git checkout &lt;BRANCH_NAME&gt;|go to &lt;BRANCH_NAME&gt;
+|git merge &lt;BRANCH_NAME&gt;|merge current branch with &lt;BRANCH_NAME&gt;
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+
+

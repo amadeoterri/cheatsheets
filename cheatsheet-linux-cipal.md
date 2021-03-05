@@ -1,7 +1,7 @@
 <h1 style="text-align:center;">
 CHEATSHEAT FOR LINUX <br>(C.S.)
 </h1>
-<h3> Standard </h3>
+<h4> Standard </h4>
 
 | Command        | Explained           
 | ------------- |:-------------:
@@ -31,7 +31,7 @@ CHEATSHEAT FOR LINUX <br>(C.S.)
 
 
 
-<h3> Services </h3>
+<h4> Services </h4>
 
 | Command        | Explained           
 | ------------- |:-------------:
@@ -49,7 +49,7 @@ CHEATSHEAT FOR LINUX <br>(C.S.)
 ||
 ||
 
-<h3> Common </h3>
+<h4> Common </h4>
 
 | Command        | Explained           
 | ------------- |:-------------:
@@ -60,3 +60,12 @@ CHEATSHEAT FOR LINUX <br>(C.S.)
 |chown ebestuur:ebestuur tenant-config-standard.xml’|geef ebestuur ownership 
 |nano /u9/ebestuur/ebestuur/conf/baseservice-context.properties|baseservice-context.properties file aanpassen
 |nano /u9/ebestuur/scripts/daisy/install_daisy|file om ports aan te passen indien meerdere tenants
+
+<h4> TIPS & TRICKS </h4>
+
+| Trick        | Explained           
+| ------------- |:-------------:
+|SELECT TEXT > RIGHT CLICK|COPY TEXT IN TERMINAL (hint: select from left to right, so no 'enter' wil be copied)
+|RIGHT CLICK|PASTE TEXT IN TERMINAL
+||
+
