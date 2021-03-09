@@ -14,8 +14,8 @@ CHEATSHEET FOR CMD
 |netstat -ano &#124; findstr :&lt;PORT&gt;|find a port (2)
 |taskkill /PID &lt;PID&gt; /F|kill process with PID (3)
 |cls|clean sheet
-|rimraf &lt;FOLDER&gt; | remove &lt;FOLDER&gt;
-||
+|rmdir &lt;EMPTY_FOLDER&gt; | remove empty folder
+|del &lt;FOLDER&gt;| remove folder
 ||
 ||
 ||

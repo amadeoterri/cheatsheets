@@ -9,8 +9,8 @@ CHEATSHEET FOR ANGULAR CLI
 |ng serve|run the project
 |ng generate component &lt;COMPONENT_NAME&gt;|make a new component
 |ng g c &lt;COMPONENT_NAME&gt;|make a new component
-||
-||
+|npm install|install project with npm
+|ng generate module &lt;MODULE_NAME --module=app&gt;|create new module and make sure it is imported in the app module (--module=app)
 ||
 ||
 ||
