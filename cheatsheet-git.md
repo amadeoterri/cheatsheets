@@ -9,7 +9,8 @@ CHEATSHEAT FOR GIT
 |git init|start a new local repo
 |git add .|adds a change in the working directory to the staging area
 |git commit -m "&lt;MESSAGE&gt;"|commit to your local repo with a &lt;MESSAGE&gt;
-|git remote add &lt;REMOTE_NAME&gt; &lt;REMOTE URL&gt;|add new remote
+|git remote add &lt;REMOTE_NAME&gt; &lt;REMOTE URL&gt;|add new remote (f.e. origin) to &lt;REMOTE URL&gt;
+|git remote set-url &lt;REMOTE_NAME&gt; &lt;REMOTE URL&gt;|change existing remote &lt;REMOTE_NAME&gt; to &lt;REMOTE URL&gt;
 |git push -u orgin &lt;BRANCH_NAME&gt;|pushes changes that you staged on &lt;BRANCH_NAME&gt;
 |git remote -v|see all the names of the remote
 |git branch &lt;BRANCH_NAME&gt;|make a new branch
