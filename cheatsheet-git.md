@@ -18,6 +18,8 @@ CHEATSHEAT FOR GIT
 |git branch -d &lt;BRANCH_NAME&gt;|remove branch &lt;BRANCH_NAME&gt;
 |git checkout &lt;BRANCH_NAME&gt;|go to &lt;BRANCH_NAME&gt;
 |git merge &lt;BRANCH_NAME&gt;|merge current branch with &lt;BRANCH_NAME&gt;
+|git checkout -b &lt;BRANCH_NAME&gt;| make a new branch and checkout
+|git pull|pull changes
 |git pull origin main|update local 'origin' repo from remote 'main' branch
 |git checkout -b &lt;MY_BRANCH_NAME&gt; &lt;OTHER_BRANCH_NAME&gt;|checkout from other branch to new mybranch (-b means 'create new branch')
 ||
