@@ -25,10 +25,10 @@ CHEATSHEAT FOR LINUX <br>(C.S.)
 |CTRL + U|clear line
 |CTRL + Y|recall cleared line (undo)
 |mv &lt;FILE_PATH&gt; &lt;FILE_PATH&gt;|move from &lt;FILE_PATH&gt; to &lt;FILE_PATH&gt;
+|rm &lt;FILE_NAME&gt; |remove the file
+|atrm &lt;JOB_ID&gt; |remove jobs at at-l
 ||
 ||
-||
-
 
 
 <h4> Services </h4>
@@ -67,5 +67,7 @@ CHEATSHEAT FOR LINUX <br>(C.S.)
 | ------------- |:-------------:
 |SELECT TEXT > RIGHT CLICK|COPY TEXT IN TERMINAL (hint: select from left to right, so no 'enter' wil be copied)
 |RIGHT CLICK|PASTE TEXT IN TERMINAL
+|ssh &lt;SERVER_NAME&gt;|open server from 'updater'
+|exit|quit from current server (and go back to server 'updater')
 ||
 
