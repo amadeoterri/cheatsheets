@@ -3,23 +3,22 @@ CHEATSHEET FOR CMD
 </h1>
 <h4>CHEATSHEET</h4>
 
-| Command        | Explained           
-| ------------- |:-------------:
-| cd  &lt;PATH&gt; |change directory to path (1)
-| cd ..| go to parent folder   
-|cd %HOMEPATH%|go to homepath
-| start .| open current directory in explorer      
-|dir| list of files in current directory
-|mkdir &lt;PATH&gt;| make a directory at path (1)
-|netstat -ano &#124; findstr :&lt;PORT&gt;|find a port (2)
-|taskkill /PID &lt;PID&gt; /F|kill process with PID (3)
-|cls|clean sheet
-|rmdir &lt;EMPTY_FOLDER&gt; | remove empty folder
-|del &lt;FOLDER&gt;| remove folder
-||
-||
-||
-
+| Command                                   |                                 Explained                                 |
+| ----------------------------------------- | :-----------------------------------------------------------------------: |
+| cd &lt;PATH&gt;                           |                       change directory to path (1)                        |
+| cd ..                                     |                            go to parent folder                            |
+| cd %HOMEPATH%                             |                              go to homepath                               |
+| start .                                   |                    open current directory in explorer                     |
+| dir                                       |                    list of files in current directory                     |
+| mkdir &lt;PATH&gt;                        |                       make a directory at path (1)                        |
+| netstat -ano &#124; findstr :&lt;PORT&gt; |                              find a port (2)                              |
+| taskkill /PID &lt;PID&gt; /F              |                         kill process with PID (3)                         |
+| cls                                       |                                clean sheet                                |
+| rmdir &lt;EMPTY_FOLDER&gt;                |                            remove empty folder                            |
+| del &lt;FOLDER&gt;                        |                               remove folder                               |
+| move &lt;FILE&gt; &lt;PATH&gt;            |                           move file to path (1)                           |
+| dir /b > filenames.txt                    | list all file/folder names in current directory to a file 'filenames.txt' |
+|                                           |
 
 <p style="text-align: left;"> (1) (replace &lt;PATH&gt; with path name) <br>
 
@@ -33,11 +32,10 @@ CHEATSHEET FOR CMD
 
 <h4> TIPS & TRICKS </h4>
 
-| Trick        | Explained           
-| ------------- |:-------------:
-|in explorer press 'ALT + D'  and type 'cmd' |open cmd with explorer
-|WIN + R and type 'cmd'| open cmd
-||
-||
-||
-
+| Trick                                      |       Explained        |
+| ------------------------------------------ | :--------------------: |
+| in explorer press 'ALT + D' and type 'cmd' | open cmd with explorer |
+| WIN + R and type 'cmd'                     |        open cmd        |
+|                                            |
+|                                            |
+|                                            |
