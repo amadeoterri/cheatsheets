@@ -33,22 +33,6 @@ CHEATSHEAT FOR GIT
 | git fetch                                                        |     repo bijwerken met laatste status van de server, maar gaat niet working      |
 |                                                                  |    directory aanpassen, daarna doe j een git merge om ze effectief binnen te     |
 |                                                                  |                                      halen                                       |
-|                                                                  |
-|                                                                  |
-|                                                                  |
-|                                                                  |
-|                                                                  |
-|                                                                  |
-|                                                                  |
-|                                                                  |
-|                                                                  |
-|                                                                  |
-|                                                                  |
-|                                                                  |
-|                                                                  |
-|                                                                  |
-|                                                                  |
-|                                                                  |
-|                                                                  |
-|                                                                  |
-|                                                                  |
+| git switch -c &lt;NEW_BRANCH&gt;                                 |                       create a new branch and switch to it                       |
+| git log --oneline                                                |                                 log all commits                                  |
+| git mv &lt;DIRECTORY_OR_FILE&gt; &lt;DIRECTORY&gt;               |                   move file or directory to another directory                    |
