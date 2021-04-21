@@ -20,8 +20,9 @@ CHEATSHEAT FOR INTELLIJ IDEA
 | ALT + RIGHT          | go to tab to the right |
 | CTRL + ALT + LEFT    |      go previous       |
 | CTRL + ALT + RIGHT   |        go next         |
-|                      |
-|                      |
+| CTRL + LEFT          |  got to begin of word  |
+| CTRL + RIGHT         |   got to end of word   |
+| CTRL + ALT + O       |     CLEAN IMPORTS      |
 |                      |
 |                      |
 |                      |

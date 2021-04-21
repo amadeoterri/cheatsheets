@@ -12,7 +12,7 @@ CHEATSHEAT FOR LINUX <br>(C.S.)
 | q                                        |                                               quit                                                |
 | man rpm                                  |                                          manual for rpm                                           |
 | pwd                                      |                                      show current directory                                       |
-| &lt;(letter(s))&gt; + tab (x2)           |                                show files that starts with letters                                |
+| &lt;(LETTER(S))&gt; + tab (x2)           |                                show files that starts with letters                                |
 | cd ~                                     |                                         go to root folder                                         |
 | less &lt;FILE_PATH&gt;                   |                                   shows the content of the file                                   |
 | cat &lt;FILE_PATH&gt;                    |                    also shows the content of the file, but more minmimalistic                     |
@@ -34,8 +34,8 @@ CHEATSHEAT FOR LINUX <br>(C.S.)
 | gzip &lt;FILE_NAME&gt;                   |                                          make a zip file                                          |
 | sudo kill -9 &lt;PROCESS_ID&gt;          |                                       force kill process id                                       |
 | ls -ltrh                                 |                           alternatief voor 'll', gesorteerd op laatste                            |
-|                                          |
-|                                          |
+| unzip {FILE_NAME}.zip                    |                                    unzip a .zip file in linux                                     |
+| zcat {FILE_NAME}.zip &#124; less +G      |                          read a zip file (! DON'T USE FOR BIG ZIP FILES)                          |
 |                                          |
 |                                          |
 
@@ -76,7 +76,7 @@ CHEATSHEAT FOR LINUX <br>(C.S.)
 | chown ebestuur:ebestuur tenant-config-standard.xml’                    |               geef ebestuur ownership               |
 | nano /u9/ebestuur/ebestuur/conf/baseservice-context.properties         |    baseservice-context.properties file aanpassen    |
 | nano /u9/ebestuur/scripts/daisy/install_daisy                          | file om ports aan te passen indien meerdere tenants |
-|                                                                        |
+| mysql -u root -p                                                       |                    MySQL Monitor                    |
 |                                                                        |
 |                                                                        |
 |                                                                        |
