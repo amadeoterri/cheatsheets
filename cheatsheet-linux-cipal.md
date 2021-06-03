@@ -36,6 +36,14 @@ CHEATSHEAT FOR LINUX <br>(C.S.)
 | ls -ltrh                                 |                           alternatief voor 'll', gesorteerd op laatste                            |
 | unzip {FILE_NAME}.zip                    |                                    unzip a .zip file in linux                                     |
 | zcat {FILE_NAME}.zip &#124; less +G      |                          read a zip file (! DON'T USE FOR BIG ZIP FILES)                          |
+| netstat -tlp &#124; grep 44141           |                              toont wie luistert op poortnummer 44141                              |
+|grep -rnw '&lt;FILE_PATH&gt; ' -e 'pattern'                                          | zoeken in file path achter bepaal 'pattern'
+|                                          |
+|                                          |
+|                                          |
+|                                          |
+|                                          |
+|                                          |
 |                                          |
 |                                          |
 
