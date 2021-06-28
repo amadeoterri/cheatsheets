@@ -23,7 +23,7 @@ CHEATSHEAT FOR INTELLIJ IDEA
 | CTRL + LEFT          |  got to begin of word  |
 | CTRL + RIGHT         |   got to end of word   |
 | CTRL + ALT + O       |     CLEAN IMPORTS      |
-|                      |
+| CTRL + SHIFT + ARROW UP/DOWN                     | move selected text one line up or down
 |                      |
 |                      |
 |                      |
